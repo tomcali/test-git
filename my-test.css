@@ -1,0 +1,21 @@
+   body {
+    background-color: lightblue;
+}
+
+h1 {
+	font-family: Arial;
+    margin-left: 20px;
+    font-size: 30px;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+	font-family: Arial;
+    margin-left: 20px;
+    font-size: 30px;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
